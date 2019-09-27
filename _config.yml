@@ -2,13 +2,11 @@
 
 # Site settings
 title: "Gemar Bola"
-title-font-size: '4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
 
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-Berisikan info tempat taruhan judi bola di bandar situs agen bola online terbesar terlengkap resmi dan terpercaya di Indonesia.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://mosiz.github.io/gemarbola/" # the base hostname & protocol for your site
+description: Berisikan info tempat taruhan judi bola di bandar situs agen bola online terbesar terlengkap resmi dan terpercaya di Indonesia.
+baseurl: "/"
+url: "https://mosiz.github.io/gemarbola/"
 
 permalink: :title/
 
