@@ -6,8 +6,8 @@ title-font-size: '4em' # a provision to adjust the size of your title. If it is 
 
 email: your-email@domain.com
 description: Kumpulan Info Agen Judi Online Terpercaya dan Resmi di Indonesia.
-baseurl: "https://mosiz.github.io/gemarbola/"
-url: "https://mosiz.github.io/gemarbola/"
+baseurl: "https://mosiz.github.io/gemarbola"
+url: "https://mosiz.github.io/gemarbola"
 
 permalink: :title/
 
