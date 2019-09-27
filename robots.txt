@@ -5,5 +5,7 @@ Disallow: /css/main.css/
 Disallow: /css/syntax-highlighter.css/
 Disallow: /assets/css/style.css/
 Disallow: /about/
+Disallow: /*.js$
+Disallow: /*.css$
 
 Sitemap: http://www.example.com/sitemap.xml
