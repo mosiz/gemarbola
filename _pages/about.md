@@ -4,13 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Vyaasa is a Jekyll theme created for a no-distraction reader-friendly websites. It is free and open source project. 
+tangandewa.com adalah situs yang berisikan kumpulan review situs agen judi online terbesar terlengkap resmi dan terpercaya di Indonesia. Situs yang berbentuk blog ini diharapkan bisa menjadi referensi terbaik bagi para peminat judi online di Indonesia dalam memilih bandar judi yang benar benar dapat di percaya.
 
-For more themes visit - [**Webjeda Jekyll Themes**](https://blog.webjeda.com/jekyll-themes/){: target="_blank"}
+Kita ketahui semua bahwa persoalan sekarang ini yang kerap didapat oleh petaruh judi online di Indoensia adalah bmarakya aksi tipu tipu yang dilakukan oleh bandar judi abal abal. Oleh karena itulah untuk tujuan meminimalisir kerugian akibat aksi tipu tipu tersebut maka kami hadirkan blog kami ini.
 
-For Jekyll tutorials visit - [**Webjeda**](https://blog.webjeda.com/){: target="_blank"}
+Semoga saja hadirnya blog ini dapat menjadi salah satu sumber referensi anda di dalam mememilih dan menentukan situs agen judi online yang terbaik bagi anda.
 
-Does the theme deserve a star?
+Salam manis
 
-<a class="github-button" href="https://github.com/sharu725/vyaasa" data-style="mega" data-count-href="/sharu725/vyaasa/stargazers" data-count-api="/repos/sharu725/vyaasa#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/vyaasa on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+Admin
