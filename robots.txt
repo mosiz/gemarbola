@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: /404.html/
+Disallow: /feed.xml/
+Disallow: /css/main.css/
+Disallow: /css/syntax-highlighter.css/
+Disallow: /assets/css/style.css/
+Disallow: /about/
+
+Sitemap: http://www.example.com/sitemap.xml
